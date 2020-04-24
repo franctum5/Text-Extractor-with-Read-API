@@ -2,6 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/TxtExtractWithReadAPI/TxtExtractWithReadAPI/bin/Debug
+/TxtExtractWithReadAPI/TxtExtractWithReadAPI/bin
 /TxtExtractWithReadAPI/TxtExtractWithReadAPI/obj
-/TxtExtractWithReadAPI/.vs/TxtExtractWithReadAPI
+/TxtExtractWithReadAPI/.vs

@@ -72,7 +72,7 @@ namespace TxtExtractWithReadAPI
                     contentType = "image/tiff";
                 else
                 {
-                    Console.WriteLine("{fileName} - This file type is not supported, skipping it.");
+                    Console.WriteLine($"{fileName} - This file type is not supported, skipping it.");
                 }
 
                 if (contentType != null)
@@ -113,7 +113,7 @@ namespace TxtExtractWithReadAPI
                     //write output file
                     if (result.status == "succeeded")
                     {
-                        Console.Write("{fileName} - Extraction succeeded, writing output file... ");
+                        Console.Write($"{fileName} - Extraction succeeded, writing output file... ");
 
                         StringBuilder finalText = new StringBuilder();
                         foreach (Readresult rr in result.analyzeResult.readResults)
