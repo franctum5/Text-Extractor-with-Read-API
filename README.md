@@ -13,11 +13,8 @@ You can either use the Code or the Precompiled version.
 - Open the **settings.json** file and fill it with your own information
 
 > - **inputFolder**: the path to the folder on your local machine the contains the input files (if your using "\\" in your path remember to escape it. E.g. C:\\\Users\\\xyz)
-
 > - **outputFolder**: the path to the folder on your local machine where the .txt will be created (if your using "\\" in your path remember to escape it. E.g. C:\\\Users\\\xyz)
-
 > - **CognitiveServicesEndpoint**: the endpoint of your Cognitive Services resource in Azure (e.g. https://westeurope.api.cognitive.microsoft.com)
-
 > - **CognitiveServicesKey**: the key of your Cognitive Services resource in Azure
 
 - Save and close the **settings.json**
