@@ -1,0 +1,6 @@
+{
+  "inputFolder": "input",
+  "outputFolder": "output",
+  "CognitiveServicesEndpoint": "https://westeurope.api.cognitive.microsoft.com",
+  "CognitiveServicesKey": "b2a41a5340014fcf82e41551edcafa0c"
+}
